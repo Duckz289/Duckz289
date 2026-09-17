@@ -1,4 +1,4 @@
-# Minh Phát
+# Tommy Sterling
 
 Student developer building local-first software, developer tools, and AI-assisted workflows.
 
@@ -16,7 +16,7 @@ Backend path validation, preview-before-cleanup, and restore-capable quarantine.
 TypeScript · Node.js · Playwright · MCP  
 Redacted timelines feed deterministic findings, reports, and regression-test generation.
 
-**[Adaptive Agent Harness](https://github.com/Duckz289/MAF)** — Coordinate native coding agents with verification and execution policy.  
+**[MAF](https://github.com/Duckz289/MAF)** — Coordinate native coding agents with verification and execution policy.  
 TypeScript · Node.js · Fastify · PostgreSQL · React  
 Git worktree isolation, evidence-bound verification, and explicit trust states.
 
