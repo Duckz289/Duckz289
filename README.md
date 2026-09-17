@@ -1,6 +1,6 @@
 # Tommy Sterling
 
-Student developer building local-first software, developer tools, and AI-assisted workflows.
+Student developer building local-first developer tools, browser automation, and agent infrastructure.
 
 ### About
 
@@ -24,13 +24,13 @@ Git worktree isolation, evidence-bound verification, and explicit trust states.
 JavaScript · Manifest V3 · Node.js tests  
 Narrow permissions, local storage, and tested export and sanitization boundaries.
 
-**[Store](https://github.com/Duckz289/Store)** — Explore commerce workflows for a Vietnamese electronics store.  
-TypeScript · Next.js · Medusa · PostgreSQL  
-Built on [Medusa DTC Starter](https://github.com/medusajs/dtc-starter), with custom admin, repair, payment, and access-control work.
-
 **[Pipeline-to-Proposal](https://github.com/Duckz289/Pipeline-to-proposal-Plugin-STANDARD)** — Draft sales outreach with local deal memory.  
 Claude plugin · Markdown workflows · Shell · PowerShell  
 Separates plugin updates from user data and tests memory-path hooks.
+
+**[Store](https://github.com/Duckz289/Store)** — Explore commerce workflows for a Vietnamese electronics store.  
+TypeScript · Next.js · Medusa · PostgreSQL  
+Built on [Medusa DTC Starter](https://github.com/medusajs/dtc-starter), with custom admin, repair, payment, and access-control work.
 
 ### What I'm Learning / Working On
 
